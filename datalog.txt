@@ -1,0 +1,9 @@
+
+RECEIVER> Temperature: 30 ªC
+RECEIVER> Record 18: 01/01/01/ Mon 12:00:34 AM
+
+RECEIVER> Temperature: 30 ªC
+RECEIVER> Record 19: 01/01/01/ Mon 12:00:37 AM
+
+RECEIVER> Temperature: 30 ªC
+RECEIVER> Record 17: 01/01/01/ Mon 12:00:33 AM
